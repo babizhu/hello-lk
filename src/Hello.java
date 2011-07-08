@@ -8,5 +8,6 @@ public class Hello {
 			arr[i] = i;
 		}
 		System.out.println( "Hello World!" );
+		System.out.println( "Hello World!" );
 	}
 }
